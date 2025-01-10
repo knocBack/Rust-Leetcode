@@ -10,7 +10,7 @@ Below is the list of problems solved. Click on a problem to view its solution an
 
 | #   | Title                                                                 | Solution Folder                  |
 | --- | --------------------------------------------------------------------- | -------------------------------- |
-| 1   | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | [Problem_916_Word_Subsets](./Problem_916_Word_Subsets/README.md) |
+| 1   | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | [Problem_916_Word_Subsets](./Problem_916_Word_Subsets/) |
 
 ---
 
