@@ -23,8 +23,8 @@
 - return the universal subsets
 
 ### Complexity Analysis
-n = words1.size(), m = words2.size()
-0 <= words1[i].length(), words2[i].length() <= 10
+- **Constraints:** n = words1.size(), m = words2.size()
+- **Constraints:** 0 <= words1[i].length(), words2[i].length() <= 10
 - **Time Complexity:** O(n*(26+10) + m*(26+10))
 - **Space Complexity:** O(n*10+26)
 
