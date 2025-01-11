@@ -11,6 +11,9 @@ Below is the list of problems solved. Click on a problem to view its solution an
 | #   | Title                                                                 | Solution Folder                  |
 | --- | --------------------------------------------------------------------- | -------------------------------- |
 | 1   | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | [Problem_916_Word_Subsets](./Problem_916_Word_Subsets/) |
+|2|[1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[Problem_1400_Construct_K_Palindrome_Strings](./Problem_1400_Construct_K_Palindrome_Strings)|
+<!-- |<problem_number>|[<problem_name>](<problem_link>)|[<folder_name>](<folder_link>)| -->
+
 
 ---
 
