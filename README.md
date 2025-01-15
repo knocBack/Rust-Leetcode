@@ -14,6 +14,7 @@ Below is the list of problems solved. Click on a problem to view its solution an
 |2|[1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[Problem_1400_Construct_K_Palindrome_Strings](./Problem_1400_Construct_K_Palindrome_Strings)|
 |3|[3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)|[Problem_3223_Minimum_Length_of_String_After_Operations](./Problem_3223_Minimum_Length_of_String_After_Operations)|
 |4|[2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)|[Problem_2657_Find_the_Prefix_Common_Array_of_Two_Arrays](./Problem_2657_Find_the_Prefix_Common_Array_of_Two_Arrays)|
+|5|[2429_Minimize_XOR](https://leetcode.com/problems/minimize-xor/)|[Problem_2429_Minimize_XOR](./Problem_2429_Minimize_XOR)|
 <!-- |<problem_number>|[<problem_name>](<problem_link>)|[<folder_name>](<folder_link>)| -->
 
 
